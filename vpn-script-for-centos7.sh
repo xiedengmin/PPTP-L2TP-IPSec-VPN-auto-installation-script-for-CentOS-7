@@ -139,7 +139,7 @@ clear
 mknod /dev/random c 1 9
 
 #更新组件
-yum update -y
+#yum update -y
 
 #安装epel源
 yum install epel-release -y
